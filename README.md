@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+PetShop Landing Page 🐾
+Um projeto de landing page moderna para petshop, desenvolvido durante as aulas do canal Sujeito Programador no YouTube.
 
-## Getting Started
+✨ Funcionalidades
+Design responsivo e moderno
 
-First, run the development server:
+Navegação intuitiva
 
-```bash
+Seção de serviços oferecidos
+
+Galeria de pets
+
+Formulário de contato
+
+Integração com redes sociais
+
+🛠️ Tecnologias Utilizadas
+React.js - Biblioteca JavaScript para construção de interface
+
+Next.js - Framework React para renderização e roteamento
+
+HTML5 - Estrutura semântica da aplicação
+
+CSS3 - Estilização e design responsivo
+
+Shadcn/UI - Componentes UI modernos e acessíveis
+
+Git - Controle de versão e deploy
+
+🚀 Como Executar o Projeto
+Clone o repositório:
+
+bash
+git clone <url-do-repositorio>
+Instale as dependências:
+
+bash
+npm install
+Execute o projeto em modo de desenvolvimento:
+
+bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Abra http://localhost:3000 no navegador
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📦 Scripts Disponíveis
+npm run dev - Inicia o servidor de desenvolvimento
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+npm run build - Gera versão de produção
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+npm run start - Inicia a versão de produção
 
-## Learn More
+npm run lint - Executa análise de código
 
-To learn more about Next.js, take a look at the following resources:
+🎨 Personalização
+Este projeto serve como base para landing pages de petshop, mas pode ser facilmente customizado:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Altere as cores no arquivo CSS global
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Modifique o conteúdo nas pastas de componentes
 
-## Deploy on Vercel
+Adicione novas seções conforme necessário
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Integre com APIs de agendamento ou e-commerce
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📱 Responsividade
+O layout foi desenvolvido com foco em mobile-first, garantindo experiência adequada em:
+
+Dispositivos móveis
+
+Tablets
+
+Desktops
+
+📄 Licença
+Este projeto foi desenvolvido para fins educacionais seguindo tutorial do canal Sujeito Programador.
+
+Desenvolvido com ❤️ por Fabiano Ferreira
